@@ -1,0 +1,26 @@
+{
+  "name": "carousel-tailwind-react",
+  "version": "1.0.0",
+  "description": "An image carousel/image-slider react-component written in tailwind css. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahadamjadckj/carousel-tailwind-react.git"
+  },
+  "keywords": [
+    "carousel react tailwind",
+    "image slider react tailwind",
+    "image slider react",
+    "image slider tailwind",
+    "carousel tailwind"
+  ],
+  "author": "Fahad Amjad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fahadamjadckj/carousel-tailwind-react/issues"
+  },
+  "homepage": "https://github.com/fahadamjadckj/carousel-tailwind-react#readme"
+}
